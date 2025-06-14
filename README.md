@@ -9,10 +9,10 @@ This project turns your M5StickCPlus2 into a xinput controller, supporting both 
 There are two main ways to play:
 
 1. **Physical Mode:**
-   Use the physical buttons on the M5StickCPlus2 — they're mapped to standard XInput buttons.
+   Use the buttons on the M5StickCPlus2.
 
 2. **Virtual Mode (Wi-Fi):**
-   The device creates a **Wi-Fi Access Point**. Connect your phone or PC to it, and use the on-screen virtual controller or keyboard.
+   The device creates a Wi-Fi Access Point. Connect your phone or PC to it, and use the on-screen virtual controller or keyboard.
 
 
 
